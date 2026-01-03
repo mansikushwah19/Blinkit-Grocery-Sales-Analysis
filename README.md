@@ -6,6 +6,7 @@ This project presents an interactive sales analysis dashboard for Blinkit Grocer
 The dashboard provides insights into sales performance, outlet analysis, product categories, and customer preferences to support data-driven business decisions.
 
 🎯 Objective
+
 The objective of this project is to:
 - Analyze overall grocery sales performance
 - Identify top-selling product categories
@@ -71,6 +72,7 @@ The objective of this project is to:
 - Slicers for interactivity
 
 ✅ Conclusion
+
 This Power BI dashboard provides a clear and interactive view of Blinkit grocery sales performance.  
 It helps stakeholders understand sales drivers, outlet performance, and customer preferences for better strategic planning.
 
