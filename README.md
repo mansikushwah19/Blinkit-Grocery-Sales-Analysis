@@ -1,6 +1,7 @@
 📊 Blinkit Grocery Sales Analysis using Power BI 
 
 📌 Project Overview
+
 This project presents an interactive sales analysis dashboard for Blinkit Grocery data using Microsoft Power BI.  
 The dashboard provides insights into sales performance, outlet analysis, product categories, and customer preferences to support data-driven business decisions.
 
